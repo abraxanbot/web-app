@@ -1,0 +1,10 @@
+before_script:
+  - dir
+
+test:
+  script:
+    - echo "Hello"
+
+build:
+  script:
+    - echo "World"
